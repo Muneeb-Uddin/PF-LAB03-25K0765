@@ -1,2 +1,6 @@
-# PF-LAB
-This repository is for the tasks of programming fundamentals course for the first semester of Bachelors in Computer Science from Fast University, if any one needs them or can make my approach more better, it would be grateful for me.
+## About
+
+This repository contains my tasks and solutions for the **Programming Fundamentals** course in the first semester of my **BS Computer Science** at **FAST University**.  
+
+I am passionate about learning programming and always looking to improve my approach.  
+If you have suggestions or better solutions, your feedback would be greatly appreciated!
